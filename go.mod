@@ -1,4 +1,4 @@
-module github.com/Barzu-95/stats
+module github.com/Barzu-95/stats/v1
 
 go 1.16
 
